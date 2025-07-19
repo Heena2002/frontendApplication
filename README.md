@@ -2,7 +2,7 @@
 
 This is a simple React-based product catalog app that allows users to view and filter products based on **category**, **brand**, and **price range**.
 
-It was built as a hands-on project for practice and interview preparation (e.g., Think41 AI interview).
+It was built as a hands-on project in Think41AI interview
 
 ---
 
